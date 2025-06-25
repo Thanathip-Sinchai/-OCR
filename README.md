@@ -3,7 +3,7 @@ CopyEdit
 # EduSync - ทีม แอปพลิเคชั่นคลังสินค้าอัจฉริยะ OCR
 
 ## 👥 Team Members
-- THANATHIP SINCHAI 66020802 - Product Owner
+- THANATHIP SINCHAI 66020802 - Product Manger
 - PUPA JAMRAS 66020970 - UX Designer
 - THAKSADANAI BOONMAK 66020723 - Researcher
 
